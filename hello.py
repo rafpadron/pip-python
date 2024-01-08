@@ -1,0 +1,1 @@
+print("el rap es una porqueria cuando deja de ser arte")
